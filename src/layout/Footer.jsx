@@ -7,7 +7,7 @@ function Footer() {
             © {new Date().getFullYear()} Copyright Text
             <a
               className='grey-text text-lighten-4 right'
-              href='#!'
+              href='/'
             >
               Repo
             </a>

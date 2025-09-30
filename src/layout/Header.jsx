@@ -4,7 +4,7 @@ function Header() {
       <nav className='blue darken-1'>
         <div className='nav-wrapper '>
           <a
-            href='#'
+            href='/'
             className='brand-logo  '
           >
             Books Library
@@ -14,7 +14,7 @@ function Header() {
             className='right hide-on-med-and-down'
           >
             <li>
-              <a href='!#'>Repo</a>
+              <a href='/'>Repo</a>
             </li>
           </ul>
         </div>
